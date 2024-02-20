@@ -14,9 +14,9 @@ Also included is a sample dataset in SQLite, feel free to use as-is or add more 
 
 Requirements
 
-Report requirements. All section totals should be correct, and where relevant should match summary totals.  Currently the script only creates a local report, it would be nice to have it email (this is one of those updates to show your python skill).
+Report requirements. All section totals should be correct, all math/calculations should be correct, and the report output data should reflect the input data in the sample database.  Currently the script only creates a local report, it would be nice to have it email (this is one of those updates to show your Python skill).
 
-Testing. Find all defects. Be as fancy-pants as you like on testing, if you want to show automation go for it.  Document the defects and for bonus points fix the python script. Document how you tested/verified the final python script is producing an accurate report.
+Testing. Find all defects. Be as fancy-pants as you like on testing, if you want to show automation go for it.  Document the defects and for bonus points fix the Python script. Document how you tested and verified the final Python script is producing an accurate report.
 
 Tools. Feel free to use whatever IDE you like, whatever imports you fancy and basically whatever gets the job done. Perhaps the only constraint is to use trusted sources for any libraries.
 
@@ -27,7 +27,9 @@ Extra-Extra. Extend or rework the script to support:
 -Configurable date ranges (you might have to adjust the SQL in sample), we might run the report weekly to see #s for the week, or we might change it up to run daily or even monthly.
 
 -Emailing report. Add to the script to generate and send the output file via email to yourself.
-As long as we can get the gist of what you're trying to do, it’s good. This exercise is more about your process, approach and communicating back what you attempted, not Python and SQL syntax.
+
+
+As long as we can get the gist of what you're trying to do, it’s good. This exercise is more about your process, approach and communicating back what you attempted, not to prove you are a seasoned Python professional.
 
 Submit
 
