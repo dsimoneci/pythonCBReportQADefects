@@ -16,7 +16,7 @@ Requirements
 
 Report requirements.  Run the Python script to review the report. All section totals should be correct, all math/calculations should be correct, and the report output data should reflect the input data in the sample database.  Currently the script only creates a local report, it would be nice to have it email (this is one of those updates to show your Python skill).
 
-Testing. Find all defects. Be as fancy-pants as you like on testing, if you want to show automation go for it.  Document the defects and for bonus points fix the Python script. Document how you tested and verified the final Python script is producing an accurate report.
+Testing. Find all defects. Be as fancy-pants as you like on testing, there are more than a few Python test libraries available (e.g. PyUnit, PyTest).  Document the defects and for bonus points fix the Python script. Document how you tested and verified the final Python script is producing an accurate report.
 
 Tools. Feel free to use whatever IDE you like, whatever imports you fancy and basically whatever gets the job done. Perhaps the only constraint is to use trusted sources for any libraries.
 
