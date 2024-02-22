@@ -8,13 +8,13 @@ Sample Code
 
 The Python script provided has several defects that need to be found, reported on and for bonus points remedied. 
 
-For extra, extra bonus points, the Python script provided can be improved in a number of ways. 
+For extra, extra bonus points, the Python script provided can be improved in a number of ways. Be creative if you like.
 
 Also included is a sample dataset in SQLite, feel free to use as-is or add more data as needed.
 
 Requirements
 
-Report requirements. All section totals should be correct, all math/calculations should be correct, and the report output data should reflect the input data in the sample database.  Currently the script only creates a local report, it would be nice to have it email (this is one of those updates to show your Python skill).
+Report requirements.  Run the Python script to review the report. All section totals should be correct, all math/calculations should be correct, and the report output data should reflect the input data in the sample database.  Currently the script only creates a local report, it would be nice to have it email (this is one of those updates to show your Python skill).
 
 Testing. Find all defects. Be as fancy-pants as you like on testing, if you want to show automation go for it.  Document the defects and for bonus points fix the Python script. Document how you tested and verified the final Python script is producing an accurate report.
 
